@@ -3,7 +3,7 @@ Creating A.I solutions, js libraries, etc and helping the open source community 
 
 ## Introduction
 
-Welcome to the branding repository for the [Nikoi.](https://github.com/nikoi-code), Here we store our designs made for the library, Please read to know how to use our brand correctly.
+Welcome to the branding repository for the [Nikoi.](https://github.com/nikoidot), Here we store our designs made for the library, Please read to know how to use our brand correctly.
 
 ## Navigation
 
